@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Eclipse template
 *.pydevproject
@@ -130,3 +131,6 @@ querydsl/
 
 *node_modules
 
+=======
+ldn
+>>>>>>> first
